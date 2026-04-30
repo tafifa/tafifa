@@ -31,16 +31,6 @@
 - Database Design
 - Git & GitHub
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafifa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafifa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 Projects
 Here are some things I’ve worked on:
 - 🔍 Hidden Gems Finder App (Snappie)
