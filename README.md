@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tafif 👋</h1>
 
-<!--
-**tafifa/tafifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Informatics Student | Mobile & Backend Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Informatics student at Tanjungpura University  
+- 💻 Focus on **Mobile Development** & **Backend Engineering**  
+- 🔥 Interested in building real-world applications with scalable architecture  
+- 📱 Currently exploring Flutter, API development, and system design  
+
+---
+
+## 🧠 Tech Stack
+### Languages
+- JavaScript
+- Python
+- C++
+
+### Frameworks & Tools
+- Flutter
+- Node.js (Express)
+- Firebase
+- TensorFlow.js
+
+### Others
+- REST API Development
+- Database Design
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tafifa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafifa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Projects
+Here are some things I’ve worked on:
+- 🔍 Hidden Gems Finder App (Snappie)
+- 📊 Machine Learning API Integration
+- 🔐 Secure Web Systems
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/tafifa
+- LinkedIn: (add your link here)
+
+---
+
+## ⚡ Philosophy
+> Build things that solve real problems, not just complete tasks.
