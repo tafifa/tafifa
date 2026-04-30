@@ -51,9 +51,6 @@ Here are some things I’ve worked on:
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/tafifa
-- LinkedIn: (add your link here)
+- LinkedIn: https://linkedin.com/in/tafifa
 
 ---
-
-## ⚡ Philosophy
-> Build things that solve real problems, not just complete tasks.
