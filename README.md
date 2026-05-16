@@ -92,6 +92,4 @@ Machine learning-powered web application for urine analysis using dipstick image
 
 ## Connect With Me
 
-* GitHub: [[https://github.com/tafifa](https://github.com/tafifa)](https://github.com/tafifa]%28https://github.com/tafifa%29)
-
-* LinkedIn: [[https://linkedin.com/in/tafifa](https://linkedin.com/in/tafifa)](https://linkedin.com/in/tafifa]%28https://linkedin.com/in/tafifa%29)
+* LinkedIn: [https://linkedin.com/in/tafifa](https://linkedin.com/in/tafifa)
