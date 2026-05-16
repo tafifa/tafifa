@@ -8,9 +8,9 @@
 
 * 📱 Developing cross-platform applications using Flutter and React Native
 
-* ⚙️ Focused on backend systems and designing 
+* ⚙️ Focused on developing and designing backend systems
 
-* 🎨 Interested in building user-driven applications and interactive product experiences with scalable application design
+* 🎨 Interested in building user-driven applications and interactive product experiences with scalable architecture
 
 * 🧠 Keep learning and still up to date with AI Development
 
